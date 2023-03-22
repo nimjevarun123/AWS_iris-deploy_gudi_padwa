@@ -1,0 +1,1 @@
+{"input_feature": ["sepal length (cm)", "sepal width (cm)", "petal length (cm)", "petal width (cm)"], "output_feature": {"setosa": "0", "versicolor": 1, "virginica": 2}}
